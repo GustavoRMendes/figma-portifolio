@@ -79,7 +79,21 @@ export default function Home () {
           </div>
         </section>
       </main>
-
+      <footer className='footer-home'>
+        <div>
+          <h1 className='footer-title'>
+            FORM <br />
+            AÇÃO
+          </h1>
+        </div>
+        <div>
+          <p className='footer-description'>
+            Minha experiência acadêmica recente <br/>
+            foi o começo na faculdade no curso <br/>
+            Sistemas de Informação - UNIRON 🎓
+          </p>
+        </div>
+      </footer>
     </>
   )
 }

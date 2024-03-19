@@ -52,3 +52,22 @@
 .description-project {
   font-size: 12px;
 }
+
+.footer-home{
+  background-color: #141414;
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  gap: 10rem;
+}
+
+.footer-title{
+  font-size: 5rem;
+}
+.footer-description{
+  color: #949494;
+  margin-top: 5rem;
+}
