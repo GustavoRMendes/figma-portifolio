@@ -35,9 +35,9 @@ export default function Home () {
         </section>
         <section className='bio-home'> <h1>Desenvolvedor <br /> Full Stack & <br /> UI/UX Designer </h1>
           <p className='paragraph-main-home'>Localizado em Porto Velho 📍</p>
-          <p className='paragraph-main-home'>Desenvolvo pequenos projetos como o BikCraft
-            utilizando apenas <strong>HTML</strong>, <strong>CSS</strong> e <strong>Javascript</strong>. Para
-            aplicativos web como a rede social Dogs eu
+          <p className='paragraph-main-home description'>Desenvolvo pequenos projetos como o BikCraft <br/>
+            utilizando apenas <strong>HTML</strong>, <strong>CSS</strong> e <strong>Javascript</strong>. Para <br/>
+            aplicativos web como a rede social Dogs eu <br/>
             trabalhei no <strong>UX</strong> e <strong>UI Design</strong> do projeto.</p>
         </section>
       </main>
