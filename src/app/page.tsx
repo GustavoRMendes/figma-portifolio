@@ -26,18 +26,22 @@ export default function Home () {
             sizes='100vw'
             priority
             className='fotoDePerfil-home'
-          /> <br/>
+          /> <br />
           <h2 className='experiencia-home'>
-          EXPE <br />
-          RIÊN <br/> 
-          CIA
+            EXPE <br />
+            RIÊN <br />
+            CIA
           </h2>
         </section>
         <section className='bio-home'> <h1>Desenvolvedor <br /> Full Stack & <br /> UI/UX Designer </h1>
-        <p className='paragraph-main-home'>Localizado em Porto Velho 📍</p>
+          <p className='paragraph-main-home'>Localizado em Porto Velho 📍</p>
+          <p className='paragraph-main-home'>Desenvolvo pequenos projetos como o BikCraft
+            utilizando apenas HTML, CSS e Javascript. Para
+            aplicativos web como a rede social Dogs eu
+            trabalhei no UX e UI Design do projeto.</p>
         </section>
       </main>
-      
+
     </>
   )
 }
