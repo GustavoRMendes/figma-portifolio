@@ -26,12 +26,18 @@ export default function Home () {
             sizes='100vw'
             priority
             className='fotoDePerfil-home'
-          />
+          /> <br/>
+          <h2 className='experiencia-home'>
+          EXPE <br />
+          RIÊN <br/> 
+          CIA
+          </h2>
         </section>
         <section className='bio-home'> <h1>Desenvolvedor <br /> Full Stack & <br /> UI/UX Designer </h1>
         <p className='paragraph-main-home'>Localizado em Porto Velho 📍</p>
         </section>
       </main>
+      
     </>
   )
 }
