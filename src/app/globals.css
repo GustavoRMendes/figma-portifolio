@@ -1,11 +1,7 @@
-body {
-  padding: 1rem 2rem 0 4rem;
-}
 .header-home {
   display: flex;
   justify-content: space-between;
 }
-
 .navbar-home {
   display: flex;
   gap: 2rem;
@@ -25,7 +21,7 @@ body {
 }
 .main-home {
   display: flex;
-  gap: 10rem;
+  gap: 2rem;
   font-size: 3rem;
 }
 .fotoDePerfil-home {
@@ -36,9 +32,22 @@ body {
   font-size: 18px;
   color: #4d4d4d;
 }
-.experiencia-home{
-  color: #DBDBDB;
+.experiencia-home {
+  color: #dbdbdb;
 }
-.description{
+.description {
   margin-top: 8rem;
+}
+.experience1 {
+  background-color: #ebebeb;
+  padding-left: 1rem;
+  
+}
+.title-project {
+  font-size: 16px;
+  padding-top: 1rem;
+}
+.description-project {
+  font-size: 12px;
+  padding-bottom: 1rem;
 }
