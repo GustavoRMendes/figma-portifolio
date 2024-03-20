@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { fontFiraSans } from "@/font";
+import { fontFiraSans, poppins } from "@/font";
 
 export const metadata: Metadata = {
   title: "GM",
@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <body className={`${fontFiraSans.variable} ${fontFiraSans.className}`}>{children}</body>
+      <body className={`${fontFiraSans.variable} ${fontFiraSans.className} ${poppins.variable}`}>{children}</body>
     </html>
   );
 }

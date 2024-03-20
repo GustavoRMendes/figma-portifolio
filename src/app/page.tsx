@@ -7,7 +7,7 @@ export default function Home () {
       <header className='header-home'>
         <div>
           <h1 className='logo-home'>
-            <Link href='/' className='link-logo-home'>Mendes</Link>
+            <Link href='/' className='link-logo-home'>MENDES</Link>
           </h1>
         </div>
         <nav className='navbar-home'>
