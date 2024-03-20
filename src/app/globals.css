@@ -39,7 +39,7 @@
 .experiencia-home {
   color: #dbdbdb;
   font-size: 8rem;
-  margin: 5rem 0 2rem 6rem;
+  margin: 5rem 2rem 2rem 6rem;
 }
 .description {
   margin-top: 12rem;
@@ -50,6 +50,7 @@
   flex-direction: column;
   padding-left: 2rem;
   margin-top: 10px;
+  border-radius: 4px;
 }
 .title-project {
   font-size: 16px;
