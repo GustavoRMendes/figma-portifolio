@@ -88,11 +88,28 @@ export default function Home () {
         </div>
         <div>
           <p className='footer-description'>
-            Minha experiência acadêmica recente <br/>
-            foi o começo na faculdade no curso <br/>
+            Minha experiência acadêmica recente <br />
+            foi o começo na faculdade no curso <br />
             Sistemas de Informação - UNIRON 🎓
           </p>
+          <div className='container-box'>
+          <div className='box-footer'>
+            <p className='curso-formado'>BACHAREL</p>
+            <p className='curso'>Sistemas de <br />Informação</p>
+            <p className='faculdade'>UNIRON</p>
+          </div>
+          <div className='box-footer'>
+            <p className='curso-formado'>CURSO</p>
+            <p className='curso'>UX Design &<br/> UI Design</p>
+            <p className='faculdade'>ORIGAMID</p>
+          </div>
+          <div className='box-footer'>
+            <p className='curso-formado'>CURSO</p>
+            <p className='curso'>Front End & <br/> Web Designer</p>
+            <p className='faculdade'>ORIGAMID</p>
+          </div>
         </div>
+          </div>
       </footer>
     </>
   )

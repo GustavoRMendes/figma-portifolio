@@ -62,18 +62,38 @@
 
 .footer-home {
   background-color: #141414;
-  height: 100vh;
-  padding: 1rem;
+  padding: 2rem 0;
   margin-top: 4rem;
   display: flex;
   justify-content: center;
-  gap: 10rem;
+  gap: 6rem;
 }
 
 .footer-title {
-  font-size: 5rem;
+  font-size: 8rem;
 }
 .footer-description {
   color: #949494;
-  margin-top: 5rem;
+  margin-top: 7rem;
+}
+.container-box {
+  display: flex;
+  gap: 1rem;
+}
+.box-footer {
+  background-color: #090909;
+  border: 1px solid black;
+  width: 140px;
+  padding: 0.3rem 0 5px 10px;
+  border-radius: 4px;
+}
+.curso-formado {
+  color: #b3b3b3;
+}
+.curso {
+  color: #ffffff;
+}
+
+.faculdade {
+  color: #b3b3b3;
 }
