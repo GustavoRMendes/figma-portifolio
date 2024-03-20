@@ -38,9 +38,11 @@
 }
 .experiencia-home {
   color: #dbdbdb;
+  font-size: 8rem;
+  margin: 5rem 0 2rem 6rem;
 }
 .description {
-  margin-top: 8rem;
+  margin-top: 12rem;
 }
 .experience1 {
   background-color: #ebebeb;

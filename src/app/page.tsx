@@ -33,7 +33,7 @@ export default function Home () {
             CIA
           </h2>
         </section>
-        <section className='bio-home'> <h1>Desenvolvedor <br /> Full Stack & <br /> UI/UX Designer </h1>
+        <section className='bio-home'> <h1>Desenvolvedor <br /> Full Stack & <br /> UX/UI Designer </h1>
           <p className='paragraph-main-home'>Localizado em Porto Velho 📍</p>
           <p className='paragraph-main-home description'>Desenvolvo pequenos projetos como o BikCraft <br />
             utilizando apenas <strong>HTML</strong>, <strong>CSS</strong> e <strong>Javascript</strong>. Para <br />
